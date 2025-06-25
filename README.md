@@ -20,8 +20,8 @@ All notebooks are compatible with **Google Colab**, so you can run them directly
 
 ## 📊 Datasets Used in This Course
 
-[Walmart Sales Dataset](https://www.kaggle.com/datasets/mikhail1681/walmart-sales <br>
-[Ames_Housing_Data](https://www.kaggle.com/datasets/godofprogramming/ameshousing/data
+[Walmart Sales Dataset](https://www.kaggle.com/datasets/mikhail1681/walmart-sales) <br>
+[Ames_Housing_Data](https://www.kaggle.com/datasets/godofprogramming/ameshousing/data)
 
 ---
 
